@@ -68,8 +68,8 @@ Meus interesses incluem Tecnologia, Astronomia, Esoterismo, Artes e Filosofia.
 ## Contato
 
 * **Email:** ibruno.snow@gmail.com 
-* **Telefone:** +55 (11) 99132-2593 
+* **Telefone:** +55 (11) 99***-**93 
 * **LinkedIn:** linkedin.com/in/bruno-souza-92014725 
-* **GitHub:** (Adicione o link do seu perfil GitHub aqui) 
+* **GitHub:**   https://github.com/yusukeyoko/portifolio 
 
 Possuo mais de 7 anos de experiência em engenharia e análise de dados, com mais de 10 projetos implementados com sucesso.
