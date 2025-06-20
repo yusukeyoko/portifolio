@@ -69,7 +69,7 @@ Meus interesses incluem Tecnologia, Astronomia, Esoterismo, Artes e Filosofia.
 
 * **Email:** ibruno.snow@gmail.com 
 * **Telefone:** +55 (11) 99***-**93 
-* **LinkedIn:** linkedin.com/in/bruno-souza-92014725 
+* **LinkedIn:** www.linkedin.com/in/bruno-souza-ribeiro
 * **GitHub:**   https://github.com/yusukeyoko/portifolio 
 
 Possuo mais de 7 anos de experiência em engenharia e análise de dados, com mais de 10 projetos implementados com sucesso.
