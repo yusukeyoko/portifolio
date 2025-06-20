@@ -1,5 +1,3 @@
-# portifolio
-Portifólio profissional
 # Bruno de Souza Ribeiro - Portfólio de Engenharia de Dados e Transformação Digital
 
 Olá! [cite_start]Sou Bruno de Souza Ribeiro, um Engenheiro de Dados e Especialista em Transformação Digital com experiência em serviços públicos, varejo e tecnologia.  [cite_start]Meu foco é transformar dados em insights valiosos para impulsionar a inovação e a otimização estratégica. 
